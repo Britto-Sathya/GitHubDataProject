@@ -60,6 +60,3 @@ class DataFrameManager:
             return df.dropDuplicates([col_name])
         else:
             return df.dropDuplicates()
-
-    #def drop_duplicates(self, df):
-        #return df.dropDuplicates()
