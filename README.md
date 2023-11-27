@@ -87,7 +87,12 @@ Data Security can be enhanced by making the following
 
 ## 6. How to Run and Test the Solution
 
-The code is ready to run by just changing the location of the input data file path.
+1. Configure the Python interpreter in the respective IDE if not configured already. Follow the instructions [here](https://www.youtube.com/watch?v=4rTIjbsnJ-w) to configure the interpreter in Pycharm
+2. Change the path of the input data file accordingly.
+3. Run the code form the IDE using the Run button or by executing the following command in the terminal by going inside the source directory:
+```
+python Driver.py
+```
 
 ## 6. Future Enhancements:
 
