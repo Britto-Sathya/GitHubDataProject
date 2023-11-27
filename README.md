@@ -41,7 +41,7 @@ High Level design for the steps included in the scope is below
 
 **Datawarehouse Data Model:**
 
-![Datawarehouse Data Model](GitHub DataModel.png)
+![Datawarehouse Data Model](GitHub%20DataModel.png)
 
 
 **Decision-making Process:** 
